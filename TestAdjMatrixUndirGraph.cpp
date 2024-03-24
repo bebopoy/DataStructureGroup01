@@ -108,6 +108,7 @@ int main(void)
 
     // 随便又写了些什么
     // 随便写了些什么
+    //.
     system("PAUSE");                    // 调用库函数system()
     return 0;                            // 返回值0, 返回操作系统
 }
